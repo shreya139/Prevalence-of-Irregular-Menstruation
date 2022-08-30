@@ -4,3 +4,6 @@
 Prevalence of irregular menstruation can have several health implications. As per the results of a large scale survey conducted across India in 2020, about 23 percent of women respondents between the ages of 20 and 29 years suffered from menstrual problems. According to the report findings of 18 countries studied, India ranks alarmingly low when it comes to healthy menstrual cycles and holds the bottom position. </p>
 <p> Almost half of India’s women suffer from irregular menstruation. Irregular menstrual cycles, if untreated can lead to other health issues such as PCOS, infertility, etc. 70 percent of all reproductive illnesses in India are caused by poor menstrual hygiene. 
 As evidence suggests that menstrual health is intrinsically linked mental health, we took an eager interest in bringing forth this project PREVALENCE OF IRREGULAR MENSTRUATION. </p>
+
+<br> <br>
+Refer to 'Data' and 'Code' branch for the primary dataset and python notebooks.
